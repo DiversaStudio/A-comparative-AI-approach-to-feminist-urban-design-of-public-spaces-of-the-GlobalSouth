@@ -73,7 +73,7 @@ Special thanks to collaborators and contributors supporting data collection, val
 ```bibtex
 @article{
   title={A comparative AI approach to feminist urban design of public spaces of the Global South},
-  author={Medina, A. and Mosquera, D. and Gallegos, F.},
+  author={Medina, A. Mosquera, D. Gallegos, F. Mosquera, K. Vásconez, J.},
   year={2026}
 }
 ```

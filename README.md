@@ -62,7 +62,7 @@ Aquí tienes todo el README en el formato que pediste, limpio y listo para copia
 
 ## Authors
 
-Medina, A., Mosquera, D., & Gallegos, F. (2026)
+Medina, A. Mosquera, D. Gallegos, F. Mosquera, K. Vásconez, J.(2026)
 
 ## Acknowledgements
 

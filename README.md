@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the research, methodology, and supporting materials for the paper: “A comparative AI approach to feminist urban design of public spaces of the Global South.” The project proposes an integrative methodology combining Artificial Intelligence and feminist urban design principles to analyze safety and inclusion in peripheral neighborhoods across South America and Southeast Asia. It focuses on micro-public spaces around bus stops (350m radius)—critical yet often overlooked sites where gendered and class-based inequalities become visible.
 
-Aquí tienes todo el README en el formato que pediste, limpio y listo para copiar en Markdown:
+
 
 ---
 

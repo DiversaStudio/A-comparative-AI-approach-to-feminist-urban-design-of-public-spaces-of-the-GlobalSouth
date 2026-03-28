@@ -51,14 +51,6 @@ This repository contains the research, methodology, and supporting materials for
 * Google Street View API access
 * Additional dependencies listed in `requirements.txt`
 
-## Usage
-
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run data collection scripts in `DataExtraction/`
-4. Apply super-resolution in `SuperResolution/`
-5. Execute detection models in `AISegmentation/`
-6. Analyze outputs and visualizations in `results/`
 
 ## Authors
 
